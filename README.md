@@ -19,6 +19,11 @@
   <br>
   <i>"Code is poetry, and I'm writing my masterpiece on mobile screens."</i>
 </p>
+---
+
+<div align="center">
+  <img src="https://github.com/DungDao23092005/DungDao23092005/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
 
 ---
 
