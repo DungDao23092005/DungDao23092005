@@ -57,19 +57,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungDao23092005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="languages" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DungDao23092005&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
-</div>
-
 ---
 
 ### 📱 Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🛍️ E-Commerce Mobile App** | Flutter, Firebase | Ứng dụng mua sắm trực tuyến với tính năng giỏ hàng, thanh toán và theo dõi đơn hàng thời gian thực. |
-| **🎵 Modern Music Player** | Kotlin, Jetpack Compose | Trình phát nhạc giao diện Material You, hỗ trợ phát offline và quản lý playlist thông minh. |
-| **todo ✅ Task Manager** | Android (Java/Kotlin) | Ứng dụng quản lý công việc cá nhân, hỗ trợ dark mode và lưu trữ local. |
+| **🛍️ E-Commerce Mobile App** | Flutter, Firebase | Ứng dụng mua sắm trực tuyến với tính năng giỏ hàng, thanh toán. |
+| **🎵 Modern Music Player** | Kotlin, Jetpack Compose | Trình phát nhạc giao diện Material You, hỗ trợ phát offline. |
+| **todo ✅ Task Manager** | Android (Java/Kotlin) | Ứng dụng quản lý công việc cá nhân, hỗ trợ dark mode. |
 
 ---
 
@@ -85,8 +81,4 @@
 <a href="mailto:dungdao108@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-</p>
-
-<p align="center">
-  <i>Cảm ơn bạn đã ghé thăm profile của tôi! Đừng quên để lại một ⭐️ nếu bạn thấy các dự án của tôi thú vị nhé.</i>
 </p>
