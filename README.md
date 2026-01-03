@@ -10,7 +10,7 @@
   <br>
   Tôi là sinh viên năm 3 chuyên ngành CNTT với tư duy <b>Product-First</b>. Tôi không chỉ viết code, tôi xây dựng trải nghiệm người dùng. 
   <br>
-  Đam mê chinh phục các kỹ thuật chuyên sâu trong <b>Mobile Development</b> (Flutter/Native) và luôn sẵn sàng học hỏi công nghệ mới để giải quyết các vấn đề thực tế.
+  Đam mê chinh phục các kỹ thuật chuyên sâu trong <b>Mobile Development</b> (Android/Flutter) và luôn sẵn sàng học hỏi công nghệ mới.
   <br>
   <i>"Code is poetry, and I'm writing my masterpiece on mobile screens."</i>
 </p>
@@ -21,8 +21,8 @@
 
 - 🔭 I’m currently working on **High-performance Mobile Applications**.
 - 🌱 I’m currently learning **Advanced Architecture (Clean Arch)** & **CI/CD for Mobile**.
-- 👯 I’m looking to collaborate on **Open Source Flutter/React Native Projects**.
-- 💬 Ask me about **Dart, Kotlin, UI/UX Optimization**.
+- 👯 I’m looking to collaborate on **Open Source Mobile Projects**.
+- 💬 Ask me about **Dart, Kotlin, and Mobile UI Design**.
 - 🏸 Hobbies: **Coding, Badminton & Learning Languages**.
 - ⚡ Fun fact: **I can debug code for 5 hours straight but sometimes forget to check the console log! ☕**
 
@@ -32,15 +32,12 @@
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
   
   <br/> <br/>
   
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   
   <br/> <br/>
@@ -70,23 +67,23 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🛍️ E-Commerce Mobile App** | Flutter, Firebase, Stripe | Ứng dụng mua sắm trực tuyến với tính năng giỏ hàng, thanh toán và theo dõi đơn hàng thời gian thực. |
+| **🛍️ E-Commerce Mobile App** | Flutter, Firebase | Ứng dụng mua sắm trực tuyến với tính năng giỏ hàng, thanh toán và theo dõi đơn hàng thời gian thực. |
 | **🎵 Modern Music Player** | Kotlin, Jetpack Compose | Trình phát nhạc giao diện Material You, hỗ trợ phát offline và quản lý playlist thông minh. |
-| **todo ✅ Task Manager** | React Native, Redux | Ứng dụng quản lý công việc cá nhân, hỗ trợ dark mode và đồng bộ đám mây. |
+| **todo ✅ Task Manager** | Android (Java/Kotlin) | Ứng dụng quản lý công việc cá nhân, hỗ trợ dark mode và lưu trữ local. |
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="left">
-<a href="LINK_FACEBOOK" target="blank">
-  <img src="[https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge](https://www.facebook.com/dung.ao.855774)&logo=Facebook&logoColor=white" alt="Facebook"/>
+<a href="https://www.facebook.com/dung.ao.855774" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="LINK_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/d%C5%A9ng-%C4%91%C3%A0o-0727a93a2/" target="blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:dungdao23092005@gmail.com">
-  <img src="dungdao108@gmail.com&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:dungdao108@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
 
