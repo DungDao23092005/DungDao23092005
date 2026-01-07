@@ -29,32 +29,57 @@
 ### ⚡ About Me
 
 - 🔭 I’m currently working on **High-performance Mobile Applications**.
-- 🌱 I’m currently learning **Advanced Architecture (Clean Arch)** & **CI/CD for Mobile**.
+- 🌱 I’m currently learning **Advanced Architecture (Clean Architecture)** & **CI/CD for Mobile**.
+- 🧠 Strong focus on **Clean Architecture, MVVM, scalable & testable code**.
 - 👯 I’m looking to collaborate on **Open Source Mobile Projects**.
 - 💬 Ask me about **Dart, Kotlin, and Mobile UI Design**.
+- 🎯 Career Goal: **Mobile Developer Intern / Junior Android–Flutter Developer**.
 - 🏸 Hobbies: **Coding, Badminton & Learning Languages**.
 - ⚡ Fun fact: **I can debug code for 5 hours straight but sometimes forget to check the console log! ☕**
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  
-  <br/> <br/>
-  
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  
-  <br/> <br/>
-  
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+#### 📱 Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%230075C2.svg?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+#### 🧠 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+#### 🔥 Backend & Services (Mobile-focused)
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json"/>
+</p>
+
+#### 🧪 Testing & Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%23007ACC.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVVM-%234285F4.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unit%20Testing-%236DB33F.svg?style=for-the-badge"/>
+</p>
+
+#### 🎨 UI / UX & Productivity
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material%20Design-%23757575.svg?style=for-the-badge&logo=material-design"/>
+</p>
+
+#### ⚙️ DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
 ---
@@ -63,9 +88,9 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🛍️ E-Commerce Mobile App** | Flutter, Firebase | Ứng dụng mua sắm trực tuyến với tính năng giỏ hàng, thanh toán. |
-| **🎵 Modern Music Player** | Kotlin, Jetpack Compose | Trình phát nhạc giao diện Material You, hỗ trợ phát offline. |
-| **todo ✅ Task Manager** | Android (Java/Kotlin) | Ứng dụng quản lý công việc cá nhân, hỗ trợ dark mode. |
+| **🛍️ [E-Commerce Mobile App](https://github.com/DungDao23092005/REPO_NAME)** | Flutter, Firebase | Ứng dụng mua sắm trực tuyến với giỏ hàng, xác thực và thanh toán. |
+| **🎵 [Modern Music Player](https://github.com/DungDao23092005/REPO_NAME)** | Kotlin, Jetpack Compose | Trình phát nhạc Material You, hỗ trợ phát offline. |
+| **✅ [Task Manager](https://github.com/DungDao23092005/REPO_NAME)** | Android (Java/Kotlin) | Ứng dụng quản lý công việc cá nhân, hỗ trợ dark mode. |
 
 ---
 
@@ -73,13 +98,13 @@
 
 <p align="center">
 <a href="https://www.facebook.com/dung.ao.855774" target="blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/d%C5%A9ng-%C4%91%C3%A0o-0727a93a2/" target="blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dungdao108@gmail.com&su=Hi+DungDao,+I+saw+your+Github+Profile" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
