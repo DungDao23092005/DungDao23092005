@@ -7,34 +7,35 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DungDao23092005&label=Profile%20Views&color=0e75b6&style=flat" alt="DungDao23092005" />
+  <img src="https://komarev.com/ghpvc/?username=DungDao23092005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center"> 
-  Chào mừng đến với không gian làm việc của tôi! 
+  Chào mừng đến với không gian làm việc của tôi!
   <br>
-  Tôi là sinh viên năm 3 chuyên ngành CNTT với tư duy <b>Product-First</b>. Tôi không chỉ viết code, tôi xây dựng trải nghiệm người dùng. 
+  Tôi là sinh viên năm 3 chuyên ngành CNTT với tư duy <b>Product-First</b>.
+  Tôi không chỉ viết code, tôi xây dựng trải nghiệm người dùng.
   <br>
-  Đam mê chinh phục các kỹ thuật chuyên sâu trong <b>Mobile Development</b> (Android/Flutter).
+  Đam mê chinh phục các kỹ thuật chuyên sâu trong <b>Mobile Development</b> (Android / Flutter).
   <br>
   <i>"Code is poetry, and I'm writing my masterpiece on mobile screens."</i>
 </p>
 
 <div align="center">
-  <img src="https://github.com/DungDao23092005/DungDao23092005/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/DungDao23092005/DungDao23092005/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 ---
 
 ### ⚡ About Me
 
-- 🔭 I’m currently working on **High-performance Mobile Applications**.
-- 🌱 I’m currently learning **Advanced Architecture (Clean Architecture)** & **CI/CD for Mobile**.
-- 🧠 Strong focus on **Clean Architecture, MVVM, scalable & testable code**.
-- 👯 I’m looking to collaborate on **Open Source Mobile Projects**.
-- 💬 Ask me about **Dart, Kotlin, and Mobile UI Design**.
-- 🎯 Career Goal: **Mobile Developer Intern / Junior Android–Flutter Developer**.
-- 🏸 Hobbies: **Coding, Badminton & Learning Languages**.
+- 🔭 I’m currently working on **High-performance Mobile Applications**
+- 🌱 I’m currently learning **Advanced Architecture (Clean Architecture)** & **CI/CD for Mobile**
+- 🧠 Strong focus on **Clean Architecture, MVVM, scalable & testable code**
+- 👯 I’m looking to collaborate on **Open Source Mobile Projects**
+- 💬 Ask me about **Dart, Kotlin, and Mobile UI Design**
+- 🎯 Career Goal: **Mobile Developer Intern / Junior Android–Flutter Developer**
+- 🏸 Hobbies: **Coding, Badminton & Learning Languages**
 - ⚡ Fun fact: **I can debug code for 5 hours straight but sometimes forget to check the console log! ☕**
 
 ---
@@ -88,24 +89,26 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🛍️ [E-Commerce Mobile App](https://github.com/DungDao23092005/REPO_NAME)** | Flutter, Firebase | Ứng dụng mua sắm trực tuyến với giỏ hàng, xác thực và thanh toán. |
-| **🎵 [Modern Music Player](https://github.com/DungDao23092005/REPO_NAME)** | Kotlin, Jetpack Compose | Trình phát nhạc Material You, hỗ trợ phát offline. |
-| **✅ [Task Manager](https://github.com/DungDao23092005/REPO_NAME)** | Android (Java/Kotlin) | Ứng dụng quản lý công việc cá nhân, hỗ trợ dark mode. |
+| **🛍️ [E-Commerce Mobile App](https://github.com/DungDao23092005/REPO_NAME)** | Flutter, Firebase | Ứng dụng mua sắm trực tuyến với giỏ hàng, xác thực và thanh toán |
+| **🎵 [Modern Music Player](https://github.com/DungDao23092005/REPO_NAME)** | Kotlin, Jetpack Compose | Trình phát nhạc Material You, hỗ trợ phát offline |
+| **✅ [Task Manager](https://github.com/DungDao23092005/REPO_NAME)** | Android (Kotlin) | Ứng dụng quản lý công việc cá nhân, hỗ trợ dark mode |
+
+> 🔧 Thay `REPO_NAME` bằng tên repo thật của bạn.
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="center">
-<a href="https://www.facebook.com/dung.ao.855774" target="blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/d%C5%A9ng-%C4%91%C3%A0o-0727a93a2/" target="blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dungdao108@gmail.com&su=Hi+DungDao,+I+saw+your+Github+Profile" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.facebook.com/dung.ao.855774" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/d%C5%A9ng-%C4%91%C3%A0o-0727a93a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dungdao108@gmail.com&su=Hi+DungDao,+I+saw+your+Github+Profile" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
