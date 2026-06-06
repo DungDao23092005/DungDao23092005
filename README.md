@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Mobile+Developer+%F0%9F%93%B1;I+build+Android+%26+Flutter+Apps+%F0%9F%9A%80;IT+Student+%40+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Always+Learning+New+Things+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=480&lines=NLP+%26+Machine+Learning+Engineer+%F0%9F%A4%96;I+build+Smart+Language+Models+%F0%9F%97%A3%EF%B8%8F;IT+Student+%40+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Always+Learning+New+Things+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,12 +13,12 @@
 <p align="center"> 
   Chào mừng đến với không gian làm việc của tôi!
   <br>
-  Tôi là sinh viên năm 3 chuyên ngành CNTT với tư duy <b>Product-First</b>.
-  Tôi không chỉ viết code, tôi xây dựng trải nghiệm người dùng.
+  Tôi là sinh viên năm 3 chuyên ngành CNTT với niềm đam mê sâu sắc dành cho <b>Natural Language Processing (NLP)</b>.
+  Tôi không chỉ xử lý văn bản, tôi giúp máy tính thấu hiểu và giao tiếp bằng ngôn ngữ con người.
   <br>
-  Đam mê chinh phục các kỹ thuật chuyên sâu trong <b>Mobile Development</b> (Android / Flutter).
+  Tập trung nghiên cứu các kỹ thuật chuyên sâu trong <b>Large Language Models (LLMs)</b>, <b>Text Analytics</b> và triển khai hệ thống AI phân tán.
   <br>
-  <i>"Code is poetry, and I'm writing my masterpiece on mobile screens."</i>
+  <i>"Language is the roadmap of a culture, and I'm building the engine to navigate it."</i>
 </p>
 
 <div align="center">
@@ -29,71 +29,69 @@
 
 ### ⚡ About Me
 
-- 🔭 I’m currently working on **High-performance Mobile Applications**
-- 🌱 I’m currently learning **Advanced Architecture (Clean Architecture)** & **CI/CD for Mobile**
-- 🧠 Strong focus on **Clean Architecture, MVVM, scalable & testable code**
-- 👯 I’m looking to collaborate on **Open Source Mobile Projects**
-- 💬 Ask me about **Dart, Kotlin, and Mobile UI Design**
-- 🎯 Career Goal: **Mobile Developer Intern / Junior Android–Flutter Developer**
-- 🏸 Hobbies: **Coding, Badminton & Learning Languages**
-- ⚡ Fun fact: **I can debug code for 5 hours straight but sometimes forget to check the console log! ☕**
+- 🔭 I’m currently working on **NLP & Conversational AI Applications**
+- 🌱 I’m currently learning **RAG Pipelines, LLM Fine-Tuning & Advanced MLOps (Docker, Azure)**
+- 🧠 Strong focus on **Transformers, Information Retrieval, scalable & testable AI pipelines**
+- 👯 I’m looking to collaborate on **Open Source NLP / Generative AI Projects**
+- 💬 Ask me about **Python, Hugging Face, LangChain, and Containerization**
+- 🎯 Career Goal: **NLP Engineer Intern / Junior AI Developer**
+- 🏸 Hobbies: **Coding, Badminton, Modding RPGs (Dark Souls III) & Learning Languages**
+- ⚡ Fun fact: **I can preprocess text data for hours, then realize I forgot to remove stopwords! ☕**
 
 ---
 
 ### 🛠️ Languages & Tools
 
-#### 📱 Mobile Development
+#### 🗣️ NLP & Machine Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%230075C2.svg?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-F7931E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
 </p>
 
 #### 🧠 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-#### 🔥 Backend & Services (Mobile-focused)
+#### ☁️ MLOps & Cloud Infrastructure
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
 </p>
 
-#### 🧪 Testing & Architecture
+#### 🗄️ Database & Vector Storage
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-%23007ACC.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVVM-%234285F4.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Unit%20Testing-%236DB33F.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 </p>
 
-#### 🎨 UI / UX & Productivity
+#### ⚙️ Development Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material%20Design-%23757575.svg?style=for-the-badge&logo=material-design"/>
-</p>
-
-#### ⚙️ DevOps & Tools
-<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
 ---
 
-### 📱 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🛍️ [E-Commerce Mobile App](https://github.com/DungDao23092005/REPO_NAME)** | Flutter, Firebase | Ứng dụng mua sắm trực tuyến với giỏ hàng, xác thực và thanh toán |
-| **🎵 [Modern Music Player](https://github.com/DungDao23092005/REPO_NAME)** | Kotlin, Jetpack Compose | Trình phát nhạc Material You, hỗ trợ phát offline |
-| **✅ [Task Manager](https://github.com/DungDao23092005/REPO_NAME)** | Android (Kotlin) | Ứng dụng quản lý công việc cá nhân, hỗ trợ dark mode |
+| **🎓 [AI Tutor RAG System](https://github.com/DungDao23092005/REPO_NAME)** | Python, LangChain, Pinecone | Chatbot AI giáo dục thông minh ứng dụng GenAI & kiến trúc RAG để đọc hiểu, trích xuất thông tin và giải đáp thắc mắc từ tài liệu học tập (Digital Learning). |
+| **🧠 [GenAI Quiz & Lesson Generator](https://github.com/DungDao23092005/REPO_NAME)** | Llama / OpenAI, Prompt Engineering | Hệ thống tự động tổng hợp bài giảng và khởi tạo bộ câu hỏi trắc nghiệm từ văn bản thô, tối ưu hóa nội dung thông qua kỹ thuật Prompt Engineering. |
+| **📊 [ML Training Pipeline Dashboard](https://github.com/DungDao23092005/REPO_NAME)** | Scikit-learn, Pandas, Streamlit | Dashboard quản lý toàn bộ vòng đời mô hình học máy (End-to-End ML Pipeline): Data Ingestion ➡️ Preprocessing ➡️ Training ➡️ Evaluation. |
+| **☁️ [NovaTicket Cloud Server](https://github.com/DungDao23092005/REPO_NAME)** | Spring Boot, MySQL, Azure | Kiến trúc backend phân tán triển khai qua Azure Container Apps với CSDL quan hệ. |
 
-> 🔧 Thay `REPO_NAME` bằng tên repo thật của bạn.
+> 🔧 Thay `REPO_NAME` bằng tên repo thật của bạn trên GitHub.
 
 ---
 
