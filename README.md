@@ -101,7 +101,7 @@
   <a href="https://www.facebook.com/dung.ao.855774" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/d%C5%A9ng-%C4%91%C3%A0o-0727a93a2/" target="_blank">
+  <a href="www.linkedin.com/in/dungdao2309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dungdao108@gmail.com&su=Hi+DungDao,+I+saw+your+Github+Profile" target="_blank">
