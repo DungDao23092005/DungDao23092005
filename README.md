@@ -84,14 +84,13 @@
 
 ### 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **🎓 [AI Tutor RAG System](https://github.com/DungDao23092005/REPO_NAME)** | Python, LangChain, Pinecone | Chatbot AI giáo dục thông minh ứng dụng GenAI & kiến trúc RAG để đọc hiểu, trích xuất thông tin và giải đáp thắc mắc từ tài liệu học tập (Digital Learning). |
-| **🧠 [GenAI Quiz & Lesson Generator](https://github.com/DungDao23092005/REPO_NAME)** | Llama / OpenAI, Prompt Engineering | Hệ thống tự động tổng hợp bài giảng và khởi tạo bộ câu hỏi trắc nghiệm từ văn bản thô, tối ưu hóa nội dung thông qua kỹ thuật Prompt Engineering. |
-| **📊 [ML Training Pipeline Dashboard](https://github.com/DungDao23092005/REPO_NAME)** | Scikit-learn, Pandas, Streamlit | Dashboard quản lý toàn bộ vòng đời mô hình học máy (End-to-End ML Pipeline): Data Ingestion ➡️ Preprocessing ➡️ Training ➡️ Evaluation. |
-| **☁️ [NovaTicket Cloud Server](https://github.com/DungDao23092005/REPO_NAME)** | Spring Boot, MySQL, Azure | Kiến trúc backend phân tán triển khai qua Azure Container Apps với CSDL quan hệ. |
+| Project                                                                                  | Tech Stack                                     | Status      | Description                                                                                                                                                                                                                  |
+| :--------------------------------------------------------------------------------------- | :--------------------------------------------- | :---------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🎓 [AI Learning Tutor RAG](https://github.com/DungDao23092005/ai-learning-tutor-rag)** | Python, Streamlit, Gemini API, ChromaDB, PyPDF | ✅ Completed | Ứng dụng AI Tutor sử dụng kiến trúc RAG cho phép người dùng upload tài liệu PDF học tập, hỏi đáp theo nội dung tài liệu, tóm tắt tài liệu, tạo câu hỏi trắc nghiệm, chấm đáp án và hiển thị nguồn trích dẫn theo từng trang. |
+| **🧠 GenAI Quiz & Lesson Generator**                                                     | Llama / OpenAI, Prompt Engineering             | 🛠️ Planned | Hệ thống tự động tổng hợp bài giảng và khởi tạo bộ câu hỏi trắc nghiệm từ văn bản thô, tối ưu hóa nội dung thông qua kỹ thuật Prompt Engineering.                                                                            |
+| **📊 ML Training Pipeline Dashboard**                                                    | Scikit-learn, Pandas, Streamlit                | 🛠️ Planned | Dashboard quản lý toàn bộ vòng đời mô hình học máy: Data Ingestion ➡️ Preprocessing ➡️ Training ➡️ Evaluation.                                                                                                               |
+| **☁️ NovaTicket Cloud Server**                                                           | Spring Boot, MySQL, Azure                      | 🛠️ Planned | Kiến trúc backend phân tán triển khai qua Azure Container Apps với cơ sở dữ liệu quan hệ.                                                                                                                                    |
 
-> 🔧 Thay `REPO_NAME` bằng tên repo thật của bạn trên GitHub.
 
 ---
 
