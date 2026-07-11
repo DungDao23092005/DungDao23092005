@@ -87,7 +87,7 @@
 | **🎓 [AI Learning Tutor RAG](https://github.com/DungDao23092005/ai-learning-tutor-rag)** | Python, Streamlit, Gemini API, ChromaDB, PyPDF, RAG, Docker | ✅ Completed | Ứng dụng AI Tutor sử dụng kiến trúc RAG cho phép người dùng upload tài liệu PDF học tập, hỏi đáp theo nội dung tài liệu, tóm tắt tài liệu, tạo câu hỏi trắc nghiệm, chấm đáp án và hiển thị nguồn trích dẫn theo từng trang. |
 | **🧠 [GenAI Learning Content Generator](https://github.com/DungDao23092005/genai-learning-content-generator)** | Python, Streamlit, Gemini API, Pydantic | ✅ Completed | AI app tạo lesson, quiz, flashcards, code exercise và export Markdown từ một chủ đề học tập bằng prompt engineering và structured JSON validation. |
 | **📊 [ML Training Pipeline Dashboard](https://github.com/DungDao23092005/ml-training-pipeline-dashboard)** | Scikit-learn, Pandas, Streamlit | ✅ Completed | Dashboard quản lý quy trình huấn luyện mô hình Machine Learning: Data Ingestion ➡️ Preprocessing ➡️ Training ➡️ Evaluation. |
-| **🍿 [NovaTicket AI Recommender & Sentiment Analyzer](https://github.com/DungDao23092005/novaticket-ai)** | Python, Scikit-learn, NLP | 🛠️ Planned | Hệ thống gợi ý các sự kiện (Event) cá nhân hóa và mô hình phân tích cảm xúc (Sentiment Analysis) từ các đánh giá (review) của người dùng, tích hợp cho nền tảng NovaTicket. |
+| **🍿 [NovaTicket AI Recommender & Sentiment Analyzer](https://github.com/DungDao23092005/novaticket-ai)** | Python, Scikit-learn, NLP | ✅ Completed | Hệ thống gợi ý các sự kiện (Event) cá nhân hóa và mô hình phân tích cảm xúc (Sentiment Analysis) từ các đánh giá (review) của người dùng, tích hợp cho nền tảng NovaTicket. |
 
 ### 📫 Let's Connect
 
