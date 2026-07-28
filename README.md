@@ -92,9 +92,6 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.facebook.com/dung.ao.855774" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/dungdao2309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
